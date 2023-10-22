@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mymovie-app/static/css/main.e6c13ad2.css",
+    "main.js": "/mymovie-app/static/js/main.1db75258.js",
+    "static/js/787.7beec1de.chunk.js": "/mymovie-app/static/js/787.7beec1de.chunk.js",
+    "static/media/Logo.svg": "/mymovie-app/static/media/Logo.ddc4f46c13911d43dde0ee4afc957cde.svg",
+    "index.html": "/mymovie-app/index.html",
+    "main.e6c13ad2.css.map": "/mymovie-app/static/css/main.e6c13ad2.css.map",
+    "main.1db75258.js.map": "/mymovie-app/static/js/main.1db75258.js.map",
+    "787.7beec1de.chunk.js.map": "/mymovie-app/static/js/787.7beec1de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1db75258.js"
+  ]
+}
